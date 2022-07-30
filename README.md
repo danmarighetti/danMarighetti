@@ -12,7 +12,7 @@
   <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dani-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="center" alt="Dani-Sql"  height="30" width="40" fill = "white" src="https://cdn.svgapi.com/vector/13344/sql-file-format.svg"> 
-  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://www.pngitem.com/pimgs/m/376-3767417_transparent-computer-programming-png-png-download.png">
+  <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOnSIPJKmJv3a_--udWpqoGiYc-_1jM2EFTYDIyZCElIc66H4Vhm7dJcfLmbQIMle8g2E&usqp=CAU">
 </div>
   
   ##
