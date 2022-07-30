@@ -24,7 +24,8 @@
   <a href="https://www.linkedin.com/in/danielemarighetticox" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/danielecox/danielecox/blob/output/github-contribution-grid-snake.svg)
- - 🔭 I’m currently frontend developoer.
+  
+- 🔭 I’m currently frontend developoer.
 - 🌱 I’m learning JS, SQL, Cloud Computing and Clean Code.
 - 👯 I’m looking to collaborate on open sources, diversity and inclusion projects.
 - 🤔 I’m looking for help with codding, JS, SQL.
