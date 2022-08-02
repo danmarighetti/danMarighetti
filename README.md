@@ -25,7 +25,7 @@
  
  ![Snake animation](https://github.com/danielecox/danielecox/blob/output/github-contribution-grid-snake.svg)
   
-- 🔭 I’m currently frontend developoer.
+- 🔭 I’m currently frontend developer.
 - 🌱 I’m learning JS, SQL, Cloud Computing and Clean Code.
 - 👯 I’m looking to collaborate on open sources, diversity and inclusion projects.
 - 🤔 I’m looking for help with codding, JS, SQL.
