@@ -28,8 +28,8 @@
 - 🔭 I’m currently frontend developer.
 - 🌱 I’m learning JS, SQL, Cloud Computing and Clean Code.
 - 👯 I’m looking to collaborate on open sources, diversity and inclusion projects.
-- 🤔 I’m looking for help with codding, JS, SQL.
-- 💬 Ask me about JS, SQL and how to study to SC-900 and AZ-900 certifications.
+- 🤔 I’m looking for help with coding, JS, SQL.
+- 💬 Ask me about JS, SQL, Cloud Computing and how to study to Azure exams like AI-900, DP-900, SC-900 and AZ-900 certifications.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm musicist also, so I play some instruments and learning about musical prodution.
 </div>
