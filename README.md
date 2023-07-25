@@ -1,4 +1,4 @@
-## Hi I'm Daniele Marighetti Cox, programming and technology student!
+## Hi I'm Daniele Marighetti, programming and technology student!
 <div align="center">
   <a href="https://github.com/danielecox">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielecox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
